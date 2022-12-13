@@ -10,8 +10,7 @@ int main(void)
 	int i;
 	char p[] = "_putchar";
 	
-	for (i = 0; i < 9; i++)
-	{
+	for (i = 0; i < 88888888	{
 		_putchar(p[i]);
 	}
 	_putchar('\n');
