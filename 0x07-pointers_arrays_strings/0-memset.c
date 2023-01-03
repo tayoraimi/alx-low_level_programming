@@ -6,7 +6,7 @@
  *
  * @b: the desired value
  *
- * @n: number of bytes to be changed
+ * @n: numbers of bytes to be changed
  *
  * Return: changed array with new value for n bytes
  */
