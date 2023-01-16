@@ -1,9 +1,17 @@
 #include <stdio.h>
 #include "dog.h"
 /**
- * main - check the code for Holberton School students.
+ * init_dog - initialize a variable of type struct dog
  *
- * Return: Always 0.
+ * @d: pointer to an element of type dog
+ *
+ * @name: pointer to a char for name of dog
+ *
+ * @age: age of dog
+ *
+ * @owner: pointer to a char for owner of dog
+ *
+ * Return: nothing
  */
 void init_dog(struct dog *d, char *name, float age, char *owner)
 {
